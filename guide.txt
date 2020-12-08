@@ -1,0 +1,24 @@
+1.Install environment
+selenium
+chromedriver
+mysql connector python
+nohup
+
+2. Deploy
+program.py
+
+port 9222 to listen chromedriver
+
+Run in background
+>> nohup /usr/bin/python3 test.py >/dev/null 2>&1 &
+>> nohup /usr/bin/python3 /path/to/program.py > output.log &
+>> nohup sh check_crawl.sh &
+Check nohup process:
+ps ax | grep program.py
+kill nohup
+pkill -f test.py
+Check port ready:
+>>sudo netstat -nlp | grep :9222
+Kill port immediate:
+>>sudo kill -9 $(sudo lsof -t -i:9222)
+nohup /usr/bin/python3 program.py > output.log &

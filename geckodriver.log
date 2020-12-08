@@ -1,0 +1,566 @@
+1602037641617	geckodriver	INFO	Listening on 127.0.0.1:5954
+1602037644662	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofileYHAp0P"
+1602037646550	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602037646550	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602037646551	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602037646554	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602037648751	Marionette	INFO	Listening on port 5967
+1602037649007	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+1602037866099	geckodriver	INFO	Listening on 127.0.0.1:6558
+1602037869127	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofileInIG6O"
+1602037870548	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602037870548	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602037870549	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602037870549	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602037872571	Marionette	INFO	Listening on port 6573
+1602037872936	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 41532, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 42900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 42900, Chrome_ChildThread] WARNING: pipe error: 109: fil[Parent 41532, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6404, Chrome_Child1602037894653	Marionette	INFO	Stopped listening on port 6573
+[GPU 12448, Chrome_
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1602037902011	geckodriver	INFO	Listening on 127.0.0.1:6692
+1602037905042	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofileM5TDb0"
+1602037906484	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602037906484	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602037906484	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602037906484	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602037908454	Marionette	INFO	Listening on port 6705
+1602037908852	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602037980553	geckodriver	INFO	Listening on 127.0.0.1:6950
+1602037983574	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofileMRULFo"
+1602037984968	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602037984968	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602037984968	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602037984968	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602037986955	Marionette	INFO	Listening on port 6965
+1602037987386	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602038068169	geckodriver	INFO	Listening on 127.0.0.1:7224
+1602038071198	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofilekg9aFB"
+1602038072605	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602038072605	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602038072605	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602038072605	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602038074521	Marionette	INFO	Listening on port 7239
+1602038075013	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+1602038597058	geckodriver	INFO	Listening on 127.0.0.1:2133
+1602038600091	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofileZFK6jS"
+1602038601639	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602038601640	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602038601640	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602038601640	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602038603521	Marionette	INFO	Listening on port 2147
+1602038603899	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602044917020	geckodriver	INFO	Listening on 127.0.0.1:8430
+1602044920064	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofilexJmZm1"
+1602044921613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602044921613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602044921613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602044921613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602044938025	geckodriver	INFO	Listening on 127.0.0.1:8506
+1602044941051	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofile2UjDLs"
+1602044942428	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602044942428	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602044942428	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602044942428	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602044944424	Marionette	INFO	Listening on port 8521
+1602044944865	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602046126062	geckodriver	INFO	Listening on 127.0.0.1:9989
+1602046129080	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofileWP06NZ"
+1602046130445	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602046130445	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602046130445	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602046130445	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602046132294	Marionette	INFO	Listening on port 10003
+1602046132387	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602046203693	geckodriver	INFO	Listening on 127.0.0.1:10206
+1602046206709	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofileXAlqsx"
+1602046208090	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602046208091	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602046208091	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602046208091	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602046210034	Marionette	INFO	Listening on port 10219
+1602046210537	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201001/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+1602046294383	geckodriver	INFO	Listening on 127.0.0.1:10503
+1602046297432	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofileEZXPFa"
+1602046298795	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602046298795	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602046298795	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602046298796	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602046300686	Marionette	INFO	Listening on port 10518
+1602046300745	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201001/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+1602046589817	geckodriver	INFO	Listening on 127.0.0.1:11275
+1602046592867	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofilevsDGJd"
+1602046594234	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602046594234	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602046594234	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602046594234	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602046596068	Marionette	INFO	Listening on port 11290
+1602046596080	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602047954392	geckodriver	INFO	Listening on 127.0.0.1:14179
+1602047957408	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofileOC7HpS"
+1602047958828	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602047958828	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602047958828	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602047958828	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602047960838	Marionette	INFO	Listening on port 14193
+1602047961215	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 5920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 44172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 44172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 16016, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1602047962611	Marionette	INFO	Stopped listening on port 14193
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 6232, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1602056153766	geckodriver	INFO	Listening on 127.0.0.1:11947
+1602056156839	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofilebqtQ3q"
+1602056158998	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602056158999	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602056158999	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602056158999	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602056161501	Marionette	INFO	Listening on port 11962
+1602056161754	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1602056379107	geckodriver	INFO	Listening on 127.0.0.1:12544
+1602056382136	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofileKnEKYM"
+1602056383662	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602056383662	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602056383662	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602056383662	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602056385639	Marionette	INFO	Listening on port 12557
+1602056385943	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201001/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151104, line 1: NotFoundError: The operation failed because the requested database object could not be found. For example, an object store did not exist but was being opened.
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201001/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151104, line 1: NotFoundError: The operation failed because the requested database object could not be found. For example, an object store did not exist but was being opened.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151104, line 1: NotFoundError: The operation failed because the requested database object could not be found. For example, an object store did not exist but was being opened.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151104, line 1: NotFoundError: The operation failed because the requested database object could not be found. For example, an object store did not exist but was being opened.
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201001/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151104, line 1: NotFoundError: The operation failed because the requested database object could not be found. For example, an object store did not exist but was being opened.
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201001/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151104, line 1: NotFoundError: The operation failed because the requested database object could not be found. For example, an object store did not exist but was being opened.
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201001/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151104, line 1: NotFoundError: The operation failed because the requested database object could not be found. For example, an object store did not exist but was being opened.
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201001/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201001/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201001/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151104, line 1: NotFoundError: The operation failed because the requested database object could not be found. For example, an object store did not exist but was being opened.
+1602056518643	geckodriver	INFO	Listening on 127.0.0.1:12937
+1602056522493	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofileT7zSEx"
+1602056523906	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602056523906	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602056523906	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602056523906	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602056525898	Marionette	INFO	Listening on port 12952
+1602056526302	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201001/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201001/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201001/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201001/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201001/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201001/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201001/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201001/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201001/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201001/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201001/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201001/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201001/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201001/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+1602056856724	geckodriver	INFO	Listening on 127.0.0.1:1843
+1602056859764	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofilenBwhlA"
+1602056861285	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602056861285	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602056861285	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602056861285	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602056863365	Marionette	INFO	Listening on port 1856
+1602056863572	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+1602057168619	geckodriver	INFO	Listening on 127.0.0.1:2514
+1602057171661	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofileabCSr3"
+1602057173156	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602057173156	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602057173156	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602057173156	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602057175337	Marionette	INFO	Listening on port 2525
+1602057175470	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+1602210918068	geckodriver	INFO	Listening on 127.0.0.1:6259
+1602210921119	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofileJpEsC8"
+1602210921869	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602210921869	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602210921869	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602210921869	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602210924873	Marionette	INFO	Listening on port 6271
+1602210924936	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602211159034	geckodriver	INFO	Listening on 127.0.0.1:7740
+1602211162075	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofile8Gq4Ta"
+1602211163393	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602211163394	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602211163394	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602211163394	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602211165297	Marionette	INFO	Listening on port 7752
+1602211165383	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+1602211265475	geckodriver	INFO	Listening on 127.0.0.1:7972
+1602211268497	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofileRb8jQL"
+1602211269822	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602211269822	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602211269822	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602211269822	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602211271704	Marionette	INFO	Listening on port 7983
+1602211271805	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602211377030	geckodriver	INFO	Listening on 127.0.0.1:8203
+1602211380051	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofilepLEqL9"
+1602211381429	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602211381429	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602211381429	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602211381429	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602211383326	Marionette	INFO	Listening on port 8215
+1602211383359	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602211479567	geckodriver	INFO	Listening on 127.0.0.1:8435
+1602211482586	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofileUbqdXj"
+1602211483979	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602211483979	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602211483979	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602211483979	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602211486365	Marionette	INFO	Listening on port 8447
+1602211486392	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602211628930	geckodriver	INFO	Listening on 127.0.0.1:14282
+1602211631944	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofileNHarLD"
+1602211633418	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602211633418	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602211633418	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602211633418	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602211635425	Marionette	INFO	Listening on port 14293
+1602211635754	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602211714468	geckodriver	INFO	Listening on 127.0.0.1:14504
+1602211717489	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofile8J7v3X"
+1602211718872	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602211718872	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602211718872	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602211718872	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602211720624	Marionette	INFO	Listening on port 14515
+1602211720695	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602211827596	geckodriver	INFO	Listening on 127.0.0.1:14740
+1602211830607	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofileGmCPgG"
+1602211831907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602211831907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602211831907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602211831907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602211833846	Marionette	INFO	Listening on port 14753
+1602211833917	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602211945035	geckodriver	INFO	Listening on 127.0.0.1:14975
+1602211948065	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofileFpJiuC"
+1602211949461	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602211949461	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602211949461	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602211949461	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602211951284	Marionette	INFO	Listening on port 14987
+1602211951373	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602211978832	geckodriver	INFO	Listening on 127.0.0.1:1140
+1602211981855	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofilep4YaSV"
+1602211983175	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602211983176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602211983176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602211983176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602211985168	Marionette	INFO	Listening on port 1155
+1602211985663	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602212062845	geckodriver	INFO	Listening on 127.0.0.1:1354
+1602212065885	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofilemnrcxj"
+1602212067222	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602212067222	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602212067222	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602212067222	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602212068942	Marionette	INFO	Listening on port 1366
+1602212069092	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602212128276	geckodriver	INFO	Listening on 127.0.0.1:1564
+1602212131286	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofile8liIau"
+1602212132587	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602212132587	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602212132587	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602212132587	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602212134360	Marionette	INFO	Listening on port 1576
+1602212134492	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602213159022	geckodriver	INFO	Listening on 127.0.0.1:5919
+1602213162044	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofilemgSaeY"
+1602213163363	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602213163363	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602213163364	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602213163364	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602213165345	Marionette	INFO	Listening on port 5931
+1602213165358	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602213230099	geckodriver	INFO	Listening on 127.0.0.1:6059
+1602213233120	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofileOXg9m3"
+1602213234492	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602213234492	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602213234493	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602213234493	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602213236447	Marionette	INFO	Listening on port 6071
+1602213236944	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602213298893	geckodriver	INFO	Listening on 127.0.0.1:6239
+1602213301904	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofilevgcJvo"
+1602213303342	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602213303343	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602213303343	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602213303343	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602213305394	Marionette	INFO	Listening on port 6251
+1602213305714	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+1602213403473	geckodriver	INFO	Listening on 127.0.0.1:13476
+1602213406515	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofile6ZAXdO"
+1602213407844	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602213407844	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602213407844	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602213407844	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602213409598	Marionette	INFO	Listening on port 13487
+1602213409721	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201007/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/mu/templates/tetris/framework-7/tetris.min.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201007/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+1602213559638	geckodriver	INFO	Listening on 127.0.0.1:13786
+1602213562664	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofileXBv0ID"
+1602213564011	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602213564011	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602213564011	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602213564011	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602213565903	Marionette	INFO	Listening on port 13798
+1602213565972	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602730914582	geckodriver	INFO	Listening on 127.0.0.1:4947
+1602730917636	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofileqZO586"
+1602730919584	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602730919584	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602730919584	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602730919584	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602730921891	Marionette	INFO	Listening on port 4958
+1602730921954	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602731053049	geckodriver	INFO	Listening on 127.0.0.1:5142
+1602731056078	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofileHSP5o2"
+1602731057712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602731057712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602731057713	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602731057713	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602731059885	Marionette	INFO	Listening on port 5153
+1602731059895	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602731098471	geckodriver	INFO	Listening on 127.0.0.1:5236
+1602731101520	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofilewnXw0E"
+1602731103146	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602731103159	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602731103159	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602731103160	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602731105463	Marionette	INFO	Listening on port 5246
+1602731105835	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602731126741	geckodriver	INFO	Listening on 127.0.0.1:5309
+1602731129768	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofileRkmHHA"
+1602731131324	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602731131325	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602731131325	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602731131325	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602731133189	Marionette	INFO	Listening on port 5321
+1602731133579	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602731308866	geckodriver	INFO	Listening on 127.0.0.1:5542
+1602731311894	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofilei4AR76"
+1602731313441	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602731313441	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602731313441	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602731313441	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602731315607	Marionette	INFO	Listening on port 5552
+1602731315704	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602732424065	geckodriver	INFO	Listening on 127.0.0.1:6789
+1602732427094	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofileA8jsFK"
+1602732428610	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602732428610	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602732428610	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602732428610	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602732430661	Marionette	INFO	Listening on port 6800
+1602732430905	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602732503635	geckodriver	INFO	Listening on 127.0.0.1:6911
+1602732506664	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofileNhJ9ke"
+1602732508179	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602732508179	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602732508179	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602732508179	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602732510109	Marionette	INFO	Listening on port 6921
+1602732510475	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602733909190	geckodriver	INFO	Listening on 127.0.0.1:3185
+1602733912219	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofileMAofwv"
+1602733913780	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602733913780	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602733913780	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602733913780	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602733915660	Marionette	INFO	Listening on port 3195
+1602733916035	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602735453826	geckodriver	INFO	Listening on 127.0.0.1:12389
+1602735456845	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofilezsMKRu"
+1602735458501	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602735458501	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602735458502	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602735458502	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602735460706	Marionette	INFO	Listening on port 12399
+1602735461157	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602735489070	geckodriver	INFO	Listening on 127.0.0.1:12538
+1602735492097	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofileBJzJ3i"
+1602735493692	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602735493692	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602735493693	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602735493693	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602735495837	Marionette	INFO	Listening on port 12549
+1602735495905	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602735769695	geckodriver	INFO	Listening on 127.0.0.1:13000
+1602735772745	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofileysLr7R"
+1602735774289	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602735774289	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602735774289	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602735774289	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602735776436	Marionette	INFO	Listening on port 13010
+1602735776553	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 15384, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 72592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 54852, Chrome_ChildThread] WARNING: pipe errJavaScript error: resource://gre/modules/WebNavigationFrames.jsm, line 45: TypeError: window is null
+1602815415044	geckodriver	INFO	Listening on 127.0.0.1:9418
+1602815418090	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofile96ngmK"
+1602815420093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602815420093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602815420093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602815420093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602815422339	Marionette	INFO	Listening on port 9430
+1602815422410	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/73cae2ad2e9438ed62e655fefa4fd91a.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+[Child 90564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 90964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 90964, Chrome_ChildThread] WARNING: pipe error:[Parent 92760, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1602815451862	Marionette	INFO	Stopped listening on port 9430
+[GPU 72876, Chrome_
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1602817011477	geckodriver	INFO	Listening on 127.0.0.1:12660
+1602817014529	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofile2bV6uG"
+1602817016185	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602817016185	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602817016185	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602817016185	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602817018307	Marionette	INFO	Listening on port 12670
+1602817018356	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602818492192	geckodriver	INFO	Listening on 127.0.0.1:6587
+1602818495268	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofileWi46OW"
+1602818496856	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602818496856	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602818496856	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602818496856	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602818499083	Marionette	INFO	Listening on port 6598
+1602818499604	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602818509688	geckodriver	INFO	Listening on 127.0.0.1:6649
+1602818512715	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ONECON~1\\AppData\\Local\\Temp\\rust_mozprofileVowOgQ"
+1602818514272	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602818514272	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602818514272	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602818514286	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602818516400	Marionette	INFO	Listening on port 6660
+1602818516532	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 62768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 62768, Chrome_ChildThread] WARNING: pipe error: 1[Child 76756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 76756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/ch[Parent 88124, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 94640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 94640, Chrome_C1602818768843	Marionette	INFO	Stopped listening on port 6660
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 77540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_15752829
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

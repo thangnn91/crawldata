@@ -1,0 +1,6 @@
+{
+    "user": "root",
+    "pass": "nnt",
+    "host": "127.0.0.1",
+    "db": "djangodb_crawl"
+}
